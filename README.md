@@ -1,0 +1,2 @@
+关于django crm的相关代码
+可z直接引用menu菜单的代码
